@@ -9,6 +9,6 @@
 
 .idea/
 
-/.gitignore
+.gitignore/
 
-yarn.lock
+yarn.lock/
